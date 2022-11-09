@@ -2086,10 +2086,10 @@
   resolved "https://registry.yarnpkg.com/@react-native/polyfills/-/polyfills-2.0.0.tgz#4c40b74655c83982c8cf47530ee7dc13d957b6aa"
   integrity sha512-K0aGNn1TjalKj+65D7ycc1//H9roAQ51GJVk5ZJQFb2teECGmzd86bYDC0aYdbRf7gtovescq4Zt6FR0tgXiHQ==
 
-"@rnx-kit/dep-check@^1.12.18":
-  version "1.12.18"
-  resolved "https://registry.yarnpkg.com/@rnx-kit/dep-check/-/dep-check-1.12.18.tgz#0f8e9d104174131277292d3a84ae909e897c41ce"
-  integrity sha512-jBk2k57TFtF0Ni6+qzJOi55iIyhI2psVDr1rrCSfGM/ztBk48paNTu4ipvdYTwyFaAwvdf/nu/BLu9fDm7y2LQ==
+"@rnx-kit/dep-check@^1.13.1":
+  version "1.13.5"
+  resolved "https://registry.yarnpkg.com/@rnx-kit/dep-check/-/dep-check-1.13.5.tgz#a5306f1c88337c8291da89cf2af884c88099f5ed"
+  integrity sha512-U2iL1MRYPP+tN3dZNr3mSQoIlxRI1ZCh2Od1ATDvvBsm1EBUQ8/KNh/dIq3zOKPkI7vcmVDT4oA7iM+YRUEmlQ==
 
 "@sentry/browser@7.7.0":
   version "7.7.0"

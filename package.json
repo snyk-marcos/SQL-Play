@@ -23,7 +23,7 @@
   "dependencies": {
     "@gorhom/bottom-sheet": "^4",
     "@react-native-admob/admob": "^2.0.1",
-    "@rnx-kit/dep-check": "^1.12.18",
+    "@rnx-kit/dep-check": "^1.13.1",
     "@sentry/cli": "^2.5.0",
     "@sentry/react-native": "^4.2.0",
     "@types/mocha": "^9.1.1",

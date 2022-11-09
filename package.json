@@ -36,7 +36,7 @@
     "react-native-file-access": "^2.4.3",
     "react-native-fs": "^2.18.0",
     "react-native-gesture-handler": "^2.4.2",
-    "react-native-iap": "^8.3.0",
+    "react-native-iap": "^8.6.7",
     "react-native-material-menu": "^2.0.0",
     "react-native-quick-sqlite": "^4.0.1",
     "react-native-reanimated": "^2.5.0",

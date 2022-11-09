@@ -25,7 +25,7 @@
     "@react-native-admob/admob": "^2.0.1",
     "@rnx-kit/dep-check": "^1.12.18",
     "@sentry/cli": "^2.5.0",
-    "@sentry/react-native": "^4.2.0",
+    "@sentry/react-native": "^4.6.1",
     "@types/mocha": "^9.1.1",
     "react": "18.0.0",
     "react-native": "0.69.4",
